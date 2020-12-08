@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="economique">Economique</string>
+    <string name="confort">Confort</string>
+    <string name="luxe">Luxe</string>
+    <string name="nom_du_client">Nom du client</string>
+    <string name="nombre_de_jours">nombre de jours</string>
+    <string name="calculer">Calculer</string>
+</resources>
